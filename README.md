@@ -32,4 +32,4 @@
 - The methodologies implemented in this assignment are built upon standard NLP practices and publicly available tutorials.
 
 ## Contact
-Created by [@YourGitHubUsername] – feel free to reach out for any queries or collaboration!
+Created by [@DeepthiShreeya] – feel free to reach out for any queries or collaboration!
